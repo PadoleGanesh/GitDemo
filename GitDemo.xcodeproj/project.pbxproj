@@ -14,6 +14,7 @@
 		3DB5D8D0282833EE000170AD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3DB5D8CF282833EE000170AD /* Assets.xcassets */; };
 		3DB5D8D3282833EE000170AD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3DB5D8D1282833EE000170AD /* LaunchScreen.storyboard */; };
 		3DB5D8DB28283437000170AD /* UITextFieldExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DB5D8DA28283437000170AD /* UITextFieldExtension.swift */; };
+		3DB5D8DD2828356F000170AD /* UIViewextension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DB5D8DC2828356F000170AD /* UIViewextension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		3DB5D8D2282833EE000170AD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3DB5D8D4282833EE000170AD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3DB5D8DA28283437000170AD /* UITextFieldExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UITextFieldExtension.swift; sourceTree = "<group>"; };
+		3DB5D8DC2828356F000170AD /* UIViewextension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIViewextension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				3DB5D8D1282833EE000170AD /* LaunchScreen.storyboard */,
 				3DB5D8D4282833EE000170AD /* Info.plist */,
 				3DB5D8DA28283437000170AD /* UITextFieldExtension.swift */,
+				3DB5D8DC2828356F000170AD /* UIViewextension.swift */,
 			);
 			path = GitDemo;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3DB5D8CB282833ED000170AD /* ViewController.swift in Sources */,
+				3DB5D8DD2828356F000170AD /* UIViewextension.swift in Sources */,
 				3DB5D8DB28283437000170AD /* UITextFieldExtension.swift in Sources */,
 				3DB5D8C7282833ED000170AD /* AppDelegate.swift in Sources */,
 				3DB5D8C9282833ED000170AD /* SceneDelegate.swift in Sources */,
