@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3D1F16CA28314BE9008554A1 /* UILabelExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D1F16C928314BE8008554A1 /* UILabelExtension.swift */; };
 		3DB5D8C7282833ED000170AD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DB5D8C6282833ED000170AD /* AppDelegate.swift */; };
 		3DB5D8C9282833ED000170AD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DB5D8C8282833ED000170AD /* SceneDelegate.swift */; };
 		3DB5D8CB282833ED000170AD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DB5D8CA282833ED000170AD /* ViewController.swift */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3D1F16C928314BE8008554A1 /* UILabelExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UILabelExtension.swift; sourceTree = "<group>"; };
 		3DB5D8C3282833ED000170AD /* GitDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3DB5D8C6282833ED000170AD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3DB5D8C8282833ED000170AD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -69,6 +71,7 @@
 				3DB5D8D4282833EE000170AD /* Info.plist */,
 				3DB5D8DA28283437000170AD /* UITextFieldExtension.swift */,
 				3DB5D8DC2828356F000170AD /* UIViewextension.swift */,
+				3D1F16C928314BE8008554A1 /* UILabelExtension.swift */,
 			);
 			path = GitDemo;
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 				3DB5D8DD2828356F000170AD /* UIViewextension.swift in Sources */,
 				3DB5D8DB28283437000170AD /* UITextFieldExtension.swift in Sources */,
 				3DB5D8C7282833ED000170AD /* AppDelegate.swift in Sources */,
+				3D1F16CA28314BE9008554A1 /* UILabelExtension.swift in Sources */,
 				3DB5D8C9282833ED000170AD /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
